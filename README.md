@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to build a model to predict whether a review for a restaurant is considered positive(1) or negative(0). 
+This project aims to build a model using Gaussian Naive Bayes to predict whether a review for a restaurant is considered positive(1) or negative(0). 
 
 General steps to build a model:
 - Importing Dataset
